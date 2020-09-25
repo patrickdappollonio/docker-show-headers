@@ -1,5 +1,7 @@
 # Docker `show-headers`
 
+[![Build Status](https://travis-ci.org/patrickdappollonio/docker-show-headers.svg?branch=master)](https://travis-ci.org/patrickdappollonio/docker-show-headers)
+
 ```
 docker pull patrickdappollonio/show-headers
 ```
